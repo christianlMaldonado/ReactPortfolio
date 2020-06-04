@@ -8,7 +8,7 @@ import "./App.css";
 import Footer from "./components/Footer";
 import HomePage from "./pages/HomePage";
 import AboutPage from "./pages/AboutPage";
-import ContactPage from "./pages/ContactPage";
+// import ContactPage from "./pages/ContactPage";
 
 class App extends React.Component {
   constructor(props) {
@@ -18,7 +18,7 @@ class App extends React.Component {
       headerLinks: [
         { title: "Home", path: "/" },
         { title: "About", path: "/about" },
-        { title: "contact", path: "/contact" },
+        // { title: "contact", path: "/contact" },
       ],
       home: {
         title: "Developer Portfolio",
@@ -28,9 +28,9 @@ class App extends React.Component {
       about: {
         title: "About me",
       },
-      contact: {
-        title: "Let's Talk",
-      },
+      // contact: {
+      //   title: "Let's Talk",
+      // },
     };
   }
 
@@ -46,15 +46,23 @@ class App extends React.Component {
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
             <Navbar.Collapse id="navbar-toggle">
               <Nav className="ml=auto">
+                
                 <Link className="nav-link" to="/">
                   Home
                 </Link>
+
+                <Navbar.Text>
+                  <a href="https://github.com/christianlMaldonado">GitHub </a>
+                </Navbar.Text>
+                
                 <Link className="nav-link" to="/about">
                   About
                 </Link>
-                <Link className="nav-link" to="/contact">
-                  Contact
-                </Link>
+                
+                <Navbar.Text>
+                  <a href="https://www.linkedin.com/in/christian-maldonado-73baa0196/">LinkedIn</a>
+                </Navbar.Text>
+
               </Nav>
             </Navbar.Collapse>
           </Navbar>
@@ -78,11 +86,11 @@ class App extends React.Component {
               exact
               render={() => <AboutPage title={this.state.about.title} />}
             />
-            <Route
+            {/* <Route
               path="/contact"
               exact
               render={() => <ContactPage title={this.state.contact.title} />}
-            />
+            /> */}
           </Switch>
           <Footer />
         </Container>

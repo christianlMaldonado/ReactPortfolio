@@ -12,8 +12,9 @@ function Footer()  {
                     <Col className="p-0" sd={12}>
                         Christian Maldonado
                     </Col>
+
                     <Col className="p-0 d-flex justify-content-end" md={3}>
-                        This site was made by Christian Maldonado
+                        This site was made by Christian Maldonado using React.js
                     </Col>
                 </Row>    
             </Container>         
