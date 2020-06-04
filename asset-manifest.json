@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/christianlMaldonado/ReactPortfolio/static/css/main.d79695cf.chunk.css",
-    "main.js": "/christianlMaldonado/ReactPortfolio/static/js/main.b69ac953.chunk.js",
-    "main.js.map": "/christianlMaldonado/ReactPortfolio/static/js/main.b69ac953.chunk.js.map",
+    "main.css": "/christianlMaldonado/ReactPortfolio/static/css/main.64d2c0bd.chunk.css",
+    "main.js": "/christianlMaldonado/ReactPortfolio/static/js/main.1aee3709.chunk.js",
+    "main.js.map": "/christianlMaldonado/ReactPortfolio/static/js/main.1aee3709.chunk.js.map",
     "runtime-main.js": "/christianlMaldonado/ReactPortfolio/static/js/runtime-main.3b768554.js",
     "runtime-main.js.map": "/christianlMaldonado/ReactPortfolio/static/js/runtime-main.3b768554.js.map",
     "static/css/2.829c9cb5.chunk.css": "/christianlMaldonado/ReactPortfolio/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.268f4480.chunk.js": "/christianlMaldonado/ReactPortfolio/static/js/2.268f4480.chunk.js",
-    "static/js/2.268f4480.chunk.js.map": "/christianlMaldonado/ReactPortfolio/static/js/2.268f4480.chunk.js.map",
+    "static/js/2.991a1701.chunk.js": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js",
+    "static/js/2.991a1701.chunk.js.map": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js.map",
     "index.html": "/christianlMaldonado/ReactPortfolio/index.html",
-    "precache-manifest.9da5c1e96d41247202dd26631863cc9e.js": "/christianlMaldonado/ReactPortfolio/precache-manifest.9da5c1e96d41247202dd26631863cc9e.js",
+    "precache-manifest.dc968f118004ed2bd03dc9fec25852c0.js": "/christianlMaldonado/ReactPortfolio/precache-manifest.dc968f118004ed2bd03dc9fec25852c0.js",
     "service-worker.js": "/christianlMaldonado/ReactPortfolio/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/christianlMaldonado/ReactPortfolio/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.d79695cf.chunk.css.map": "/christianlMaldonado/ReactPortfolio/static/css/main.d79695cf.chunk.css.map",
-    "static/js/2.268f4480.chunk.js.LICENSE.txt": "/christianlMaldonado/ReactPortfolio/static/js/2.268f4480.chunk.js.LICENSE.txt",
-    "static/media/image1.jpg": "/christianlMaldonado/ReactPortfolio/static/media/image1.9ccf6a27.jpg",
+    "static/css/main.64d2c0bd.chunk.css.map": "/christianlMaldonado/ReactPortfolio/static/css/main.64d2c0bd.chunk.css.map",
+    "static/js/2.991a1701.chunk.js.LICENSE.txt": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js.LICENSE.txt",
+    "static/media/BitAcademy.png": "/christianlMaldonado/ReactPortfolio/static/media/BitAcademy.a6089711.png",
+    "static/media/Coalesce.png": "/christianlMaldonado/ReactPortfolio/static/media/Coalesce.a81866a2.png",
     "static/media/logo.jpg": "/christianlMaldonado/ReactPortfolio/static/media/logo.62d7d7dd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.3b768554.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.268f4480.chunk.js",
-    "static/css/main.d79695cf.chunk.css",
-    "static/js/main.b69ac953.chunk.js"
+    "static/js/2.991a1701.chunk.js",
+    "static/css/main.64d2c0bd.chunk.css",
+    "static/js/main.1aee3709.chunk.js"
   ]
 }
