@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/christianlMaldonado/ReactPortfolio/static/css/main.64d2c0bd.chunk.css",
-    "main.js": "/christianlMaldonado/ReactPortfolio/static/js/main.1aee3709.chunk.js",
-    "main.js.map": "/christianlMaldonado/ReactPortfolio/static/js/main.1aee3709.chunk.js.map",
-    "runtime-main.js": "/christianlMaldonado/ReactPortfolio/static/js/runtime-main.3b768554.js",
-    "runtime-main.js.map": "/christianlMaldonado/ReactPortfolio/static/js/runtime-main.3b768554.js.map",
-    "static/css/2.829c9cb5.chunk.css": "/christianlMaldonado/ReactPortfolio/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.991a1701.chunk.js": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js",
-    "static/js/2.991a1701.chunk.js.map": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js.map",
-    "index.html": "/christianlMaldonado/ReactPortfolio/index.html",
-    "precache-manifest.dc968f118004ed2bd03dc9fec25852c0.js": "/christianlMaldonado/ReactPortfolio/precache-manifest.dc968f118004ed2bd03dc9fec25852c0.js",
-    "service-worker.js": "/christianlMaldonado/ReactPortfolio/service-worker.js",
-    "static/css/2.829c9cb5.chunk.css.map": "/christianlMaldonado/ReactPortfolio/static/css/2.829c9cb5.chunk.css.map",
-    "static/css/main.64d2c0bd.chunk.css.map": "/christianlMaldonado/ReactPortfolio/static/css/main.64d2c0bd.chunk.css.map",
-    "static/js/2.991a1701.chunk.js.LICENSE.txt": "/christianlMaldonado/ReactPortfolio/static/js/2.991a1701.chunk.js.LICENSE.txt",
-    "static/media/BitAcademy.png": "/christianlMaldonado/ReactPortfolio/static/media/BitAcademy.a6089711.png",
-    "static/media/Coalesce.png": "/christianlMaldonado/ReactPortfolio/static/media/Coalesce.a81866a2.png",
-    "static/media/logo.jpg": "/christianlMaldonado/ReactPortfolio/static/media/logo.62d7d7dd.jpg"
+    "main.css": "/ReactPortfolio/static/css/main.64d2c0bd.chunk.css",
+    "main.js": "/ReactPortfolio/static/js/main.94d5f36d.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.94d5f36d.chunk.js.map",
+    "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js",
+    "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js.map",
+    "static/css/2.829c9cb5.chunk.css": "/ReactPortfolio/static/css/2.829c9cb5.chunk.css",
+    "static/js/2.991a1701.chunk.js": "/ReactPortfolio/static/js/2.991a1701.chunk.js",
+    "static/js/2.991a1701.chunk.js.map": "/ReactPortfolio/static/js/2.991a1701.chunk.js.map",
+    "index.html": "/ReactPortfolio/index.html",
+    "precache-manifest.679e033ad4125dd51048310fbc341d87.js": "/ReactPortfolio/precache-manifest.679e033ad4125dd51048310fbc341d87.js",
+    "service-worker.js": "/ReactPortfolio/service-worker.js",
+    "static/css/2.829c9cb5.chunk.css.map": "/ReactPortfolio/static/css/2.829c9cb5.chunk.css.map",
+    "static/css/main.64d2c0bd.chunk.css.map": "/ReactPortfolio/static/css/main.64d2c0bd.chunk.css.map",
+    "static/js/2.991a1701.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.991a1701.chunk.js.LICENSE.txt",
+    "static/media/BitAcademy.png": "/ReactPortfolio/static/media/BitAcademy.a6089711.png",
+    "static/media/Coalesce.png": "/ReactPortfolio/static/media/Coalesce.a81866a2.png",
+    "static/media/logo.jpg": "/ReactPortfolio/static/media/logo.62d7d7dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b768554.js",
+    "static/js/runtime-main.0b506dc4.js",
     "static/css/2.829c9cb5.chunk.css",
     "static/js/2.991a1701.chunk.js",
     "static/css/main.64d2c0bd.chunk.css",
-    "static/js/main.1aee3709.chunk.js"
+    "static/js/main.94d5f36d.chunk.js"
   ]
 }
