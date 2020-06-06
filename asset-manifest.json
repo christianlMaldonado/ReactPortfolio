@@ -1,28 +1,31 @@
 {
   "files": {
     "main.css": "/ReactPortfolio/static/css/main.64d2c0bd.chunk.css",
-    "main.js": "/ReactPortfolio/static/js/main.7556570b.chunk.js",
-    "main.js.map": "/ReactPortfolio/static/js/main.7556570b.chunk.js.map",
+    "main.js": "/ReactPortfolio/static/js/main.8ac92bb6.chunk.js",
+    "main.js.map": "/ReactPortfolio/static/js/main.8ac92bb6.chunk.js.map",
     "runtime-main.js": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js",
     "runtime-main.js.map": "/ReactPortfolio/static/js/runtime-main.0b506dc4.js.map",
     "static/css/2.829c9cb5.chunk.css": "/ReactPortfolio/static/css/2.829c9cb5.chunk.css",
-    "static/js/2.232092a0.chunk.js": "/ReactPortfolio/static/js/2.232092a0.chunk.js",
-    "static/js/2.232092a0.chunk.js.map": "/ReactPortfolio/static/js/2.232092a0.chunk.js.map",
+    "static/js/2.fd6c2c6f.chunk.js": "/ReactPortfolio/static/js/2.fd6c2c6f.chunk.js",
+    "static/js/2.fd6c2c6f.chunk.js.map": "/ReactPortfolio/static/js/2.fd6c2c6f.chunk.js.map",
     "index.html": "/ReactPortfolio/index.html",
-    "precache-manifest.af90c6b7ef1777ca0418dca7b3bf9d32.js": "/ReactPortfolio/precache-manifest.af90c6b7ef1777ca0418dca7b3bf9d32.js",
+    "precache-manifest.d5c8c3180672add7eea153d14d735bc2.js": "/ReactPortfolio/precache-manifest.d5c8c3180672add7eea153d14d735bc2.js",
     "service-worker.js": "/ReactPortfolio/service-worker.js",
     "static/css/2.829c9cb5.chunk.css.map": "/ReactPortfolio/static/css/2.829c9cb5.chunk.css.map",
     "static/css/main.64d2c0bd.chunk.css.map": "/ReactPortfolio/static/css/main.64d2c0bd.chunk.css.map",
-    "static/js/2.232092a0.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.232092a0.chunk.js.LICENSE.txt",
-    "static/media/BitAcademy.png": "/ReactPortfolio/static/media/BitAcademy.a6089711.png",
-    "static/media/Coalesce.png": "/ReactPortfolio/static/media/Coalesce.a81866a2.png",
+    "static/js/2.fd6c2c6f.chunk.js.LICENSE.txt": "/ReactPortfolio/static/js/2.fd6c2c6f.chunk.js.LICENSE.txt",
+    "static/media/BitAcademy.png": "/ReactPortfolio/static/media/BitAcademy.23f641f6.png",
+    "static/media/Coalesce.png": "/ReactPortfolio/static/media/Coalesce.698ee218.png",
+    "static/media/EatDaBurger.png": "/ReactPortfolio/static/media/EatDaBurger.751bf737.png",
+    "static/media/FriendFinder.png": "/ReactPortfolio/static/media/FriendFinder.8896e96d.png",
+    "static/media/clickygame.png": "/ReactPortfolio/static/media/clickygame.34c4dfea.png",
     "static/media/logo.jpg": "/ReactPortfolio/static/media/logo.62d7d7dd.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.0b506dc4.js",
     "static/css/2.829c9cb5.chunk.css",
-    "static/js/2.232092a0.chunk.js",
+    "static/js/2.fd6c2c6f.chunk.js",
     "static/css/main.64d2c0bd.chunk.css",
-    "static/js/main.7556570b.chunk.js"
+    "static/js/main.8ac92bb6.chunk.js"
   ]
 }
