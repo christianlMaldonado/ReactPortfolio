@@ -8,6 +8,9 @@ import linkedInImage from '../assets/images/linkedInImage.png';
 import panoptic from '../assets/images/panoptic.png';
 import Coalesce from '../assets/images/Coalesce.png';
 import BitAcademy from '../assets/images/BitAcademy.png';
+import EatDaBurger from '../assets/images/EatDaBurger.png';
+import FriendFinder from '../assets/images/FriendFinder.png';
+import clickygame from '../assets/images/clickygame.png'
 
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -37,10 +40,10 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 2,
-                    title: 'Panoptic',
-                    subTitle: 'Panoptic is an app that lets users get vital Music artist information all for free',
-                    imgSrc: panoptic,
-                    link: 'https://github.com/mbayers6370/Project-1',
+                    title: 'BitAcademy',
+                    subTitle: 'Bit Academy is an education app designed for students connecting with teachers',
+                    imgSrc: BitAcademy,
+                    link: 'https://arcane-snowlands.herokuapp.com/',
                     selected: false
                 },
                 {
@@ -53,10 +56,34 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 4,
-                    title: 'BitAcademy',
-                    subTitle: 'Bit Academy is an education app designed for students connecting with teachers',
-                    imgSrc: BitAcademy,
-                    link: 'https://arcane-snowlands.herokuapp.com/',
+                    title: 'Panoptic',
+                    subTitle: 'Panoptic is an app that lets users get vital Music artist information all for free',
+                    imgSrc: panoptic,
+                    link: 'https://github.com/mbayers6370/Project-1',
+                    selected: false
+                },
+                {
+                    id: 5,
+                    title: 'Friend Finder',
+                    subTitle: 'Full Stack application for a friend finding site',
+                    imgSrc: FriendFinder,
+                    link: 'https://fathomless-stream-10422.herokuapp.com/',
+                    selected: false
+                },
+                {
+                    id: 6,
+                    title: 'Eat Da Burger',
+                    subTitle: 'Full stack application for using the CRUD method',
+                    imgSrc: EatDaBurger,
+                    link: 'https://still-shore-88627.herokuapp.com/',
+                    selected: false
+                },
+                {
+                    id: 7,
+                    title: 'React clicky game',
+                    subTitle: 'CLICKY-GAME is a memory game built with React.js',
+                    imgSrc: clickygame,
+                    link: 'https://github.com/christianlMaldonado/hw15ClickyGame',
                     selected: false
                 },
             ]
