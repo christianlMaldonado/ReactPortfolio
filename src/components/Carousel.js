@@ -41,7 +41,8 @@ class Carousel extends React.Component {
                 {
                     id: 2,
                     title: 'BitAcademy',
-                    subTitle: 'Bit Academy is an education app designed for students connecting with teachers',
+                    subTitle: 'Education App || Node.js, React.js, Javascript, Heroku, Socket.io',
+                    role: 'Role || Full Stack',
                     imgSrc: BitAcademy,
                     link: 'https://arcane-snowlands.herokuapp.com/',
                     selected: false
@@ -49,7 +50,8 @@ class Carousel extends React.Component {
                 {
                     id: 3,
                     title: 'Coalesce',
-                    subTitle: 'Coalesce is an application to help you decide what type of food you would like to dine in or take out',
+                    subTitle: 'Food App || Node.js, Javascript, Bootstrap, Heroku, Yelp API, MySql',
+                    role: 'Role || Full Stack',
                     imgSrc: Coalesce,
                     link: 'https://arcane-woodland-29279.herokuapp.com/',
                     selected: false
@@ -57,7 +59,8 @@ class Carousel extends React.Component {
                 {
                     id: 4,
                     title: 'Panoptic',
-                    subTitle: 'Panoptic is an app that lets users get vital Music artist information all for free',
+                    subTitle: 'Music App || Javascript, Bootstrap, BandsInTown API, Youtube API',
+                    role: 'Role || Full Stack',
                     imgSrc: panoptic,
                     link: 'https://github.com/mbayers6370/Project-1',
                     selected: false
@@ -65,7 +68,8 @@ class Carousel extends React.Component {
                 {
                     id: 5,
                     title: 'Friend Finder',
-                    subTitle: 'Full Stack application for a friend finding site',
+                    subTitle: 'Dating App || Javascript, Bootstrap, Heroku, OOP',
+                    role: 'Role || Full Stack',
                     imgSrc: FriendFinder,
                     link: 'https://fathomless-stream-10422.herokuapp.com/',
                     selected: false
@@ -73,7 +77,8 @@ class Carousel extends React.Component {
                 {
                     id: 6,
                     title: 'Eat Da Burger',
-                    subTitle: 'Full stack application for using the CRUD method',
+                    subTitle: 'Burger App || CRUD Method with Node.js, Heroku, MongoDB',
+                    role: 'Role || Full Stack',
                     imgSrc: EatDaBurger,
                     link: 'https://still-shore-88627.herokuapp.com/',
                     selected: false
@@ -81,7 +86,8 @@ class Carousel extends React.Component {
                 {
                     id: 7,
                     title: 'React clicky game',
-                    subTitle: 'CLICKY-GAME is a memory game built with React.js',
+                    subTitle: 'Clicky Game" ',
+                    role: 'Role || Full Stack',
                     imgSrc: clickygame,
                     link: 'https://github.com/christianlMaldonado/hw15ClickyGame',
                     selected: false

@@ -15,15 +15,15 @@ class App extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      title: "Christian Maldonado",
+      title: "Christian Maldonado Developr Portfolio",
       headerLinks: [
         { title: "Home", path: "/" },
         { title: "About", path: "/about" },
         // { title: "contact", path: "/contact" },
       ],
       home: {
-        title: "Developer Portfolio",
-        subtitle: "My portoflio made in React",
+        title: "Home",
+        subtitle: "My portfolio made in React",
         text: "Checkout my projects below",
       },
       about: {
@@ -41,7 +41,7 @@ class App extends React.Component {
         <Container className="p-0" fluid={true}>
           {/* --- NAVBAR ---   */}
           <Navbar className="border-bottom" bg="transparent" expand="lg">
-            <Navbar.Brand> Chirstian Maldonado </Navbar.Brand>
+            <Navbar.Brand> Chirstian Maldonado Developer Portfolio</Navbar.Brand>
 
             {/* --- Collapseable Navbar (Mobile) ---  */}
             <Navbar.Toggle className="border-0" aria-controls="navbar-toggle" />
@@ -51,14 +51,20 @@ class App extends React.Component {
                 <Link className="nav-link" to="/">
                   Home
                 </Link>
+                
+                <Navbar.Brand>  </Navbar.Brand>
+
+                <Link className="nav-link" to="/about">
+                  About
+                </Link>
+
+                <Navbar.Brand> </Navbar.Brand>
 
                 <Navbar.Text>
                   <a href="https://github.com/christianlMaldonado">GitHub </a>
                 </Navbar.Text>
                 
-                <Link className="nav-link" to="/about">
-                  About
-                </Link>
+                <Navbar.Brand>  </Navbar.Brand>
                 
                 <Navbar.Text>
                   <a href="https://www.linkedin.com/in/christian-maldonado-73baa0196/">LinkedIn</a>
