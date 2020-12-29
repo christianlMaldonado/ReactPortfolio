@@ -1,2 +1,2 @@
 # ReactPortfolio
-Portfolio in React
+Welcome to my developer portfolio made with React.js
