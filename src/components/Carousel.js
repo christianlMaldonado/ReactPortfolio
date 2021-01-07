@@ -44,7 +44,7 @@ class Carousel extends React.Component {
                     subTitle: 'Education App || Node.js, React.js, Javascript, Heroku, Socket.io',
                     role: 'Role || Full Stack',
                     imgSrc: BitAcademy,
-                    link: 'https://arcane-snowlands.herokuapp.com/',
+                    link: 'https://bit-academy.herokuapp.com/',
                     selected: false
                 },
                 {
