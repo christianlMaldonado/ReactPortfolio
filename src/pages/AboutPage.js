@@ -15,7 +15,7 @@ function AboutPage(props) {
 
             <p> 
                 I have graduated from Monterey Peninsula College acheieving critical computer science fundementals, 
-                learning discrete mathmatics and taking a UC Berkeley coding boot camp to prepare me into becoming a full stack developer.
+                learning discrete mathmatics and graduated from UC Berkeley coding boot camp and am now certiied as a Full Stack Developer.
             </p>
 
             <p> 
