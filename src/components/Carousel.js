@@ -10,7 +10,7 @@ import Coalesce from '../assets/images/Coalesce.png';
 import BitAcademy from '../assets/images/BitAcademy.png';
 import EatDaBurger from '../assets/images/EatDaBurger.png';
 import FriendFinder from '../assets/images/FriendFinder.png';
-import clickygame from '../assets/images/clickygame.png'
+import clickygame from '../assets/images/clickygame.jpg'
 
 import Container from 'react-bootstrap/Container';
 import Row from 'react-bootstrap/Row';
@@ -76,7 +76,7 @@ class Carousel extends React.Component {
                 },
                 {
                     id: 6,
-                    title: 'Eat Da Burger',
+                    title: 'Create a Burger',
                     subTitle: 'Burger App || CRUD Method with Node.js, Heroku, MongoDB',
                     role: 'Role || Full Stack',
                     imgSrc: EatDaBurger,
