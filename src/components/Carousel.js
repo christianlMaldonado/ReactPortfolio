@@ -4,12 +4,12 @@ import Card from './Card';
 
 // import images from assets to carousel
 import logo from '../assets/images/logo.jpg';
-import linkedInImage from '../assets/images/linkedInImage.png';
-import panoptic from '../assets/images/panoptic.png';
-import Coalesce from '../assets/images/Coalesce.png';
-import BitAcademy from '../assets/images/BitAcademy.png';
-import EatDaBurger from '../assets/images/EatDaBurger.png';
-import FriendFinder from '../assets/images/FriendFinder.png';
+import linkedInImage from '../assets/images/linkedin.png';
+import panoptic from '../assets/images/panoptic.jpg';
+import Coalesce from '../assets/images/coalesce.png';
+import BitAcademy from '../assets/images/bitacademy.png';
+import EatDaBurger from '../assets/images/burger.jpg';
+import FriendFinder from '../assets/images/friendFinder.jpg';
 import clickygame from '../assets/images/clickygame.jpg'
 
 import Container from 'react-bootstrap/Container';
@@ -118,7 +118,6 @@ class Carousel extends React.Component {
             return <Card item={item} click={(e => this.handleCardClick(item.id, e))} key={item.id} />
         })
     }
-
 
     render() {
         return(
